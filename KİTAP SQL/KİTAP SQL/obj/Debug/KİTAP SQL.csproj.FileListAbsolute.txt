@@ -1,0 +1,9 @@
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\bin\Debug\KİTAP SQL.exe.config
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\bin\Debug\KİTAP SQL.exe
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\bin\Debug\KİTAP SQL.pdb
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\obj\Debug\KİTAP SQL.csprojAssemblyReference.cache
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\obj\Debug\KİTAP_SQL.Form1.resources
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\obj\Debug\KİTAP_SQL.Properties.Resources.resources
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\obj\Debug\KİTAP SQL.csproj.GenerateResource.cache
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\obj\Debug\KİTAP SQL.exe
+C:\Users\Devrim\source\repos\KİTAP SQL\KİTAP SQL\obj\Debug\KİTAP SQL.pdb
